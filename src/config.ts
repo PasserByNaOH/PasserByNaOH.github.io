@@ -32,7 +32,7 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/pp.png',
+  avatar: 'assets/images/pp.jpg',
   name: 'PasserByNaOH',
   bio: 'Test test test',
   links: [
