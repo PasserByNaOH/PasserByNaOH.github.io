@@ -6,14 +6,15 @@ import type {
 } from './types/config'
 import { LinkPreset } from './types/config'
 
+// 博客网站名称
 export const siteConfig: SiteConfig = {
-  title: 'Fuwari',
-  subtitle: 'Demo Site',
-  lang: 'en',
+  title: 'PasserByNaOH',
+  subtitle: 'PasserByNaOH Blog',
+  lang: 'zh-CN',
   themeHue: 250,
   banner: {
-    enable: false,
-    src: 'assets/images/demo-banner.png',
+    enable: true,
+    src: 'assets/images/background.png',
   },
 }
 
@@ -31,9 +32,9 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/demo-avatar.png',
-  name: 'Lorem Ipsum',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  avatar: 'assets/images/pp.png',
+  name: 'PasserByNaOH',
+  bio: 'Test test test',
   links: [
     {
       name: 'Twitter',
