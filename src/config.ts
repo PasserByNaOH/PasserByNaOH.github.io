@@ -34,12 +34,12 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/pp.jpg',
   name: 'PasserByNaOH',
-  bio: 'Test test test',
+  bio: '',
   links: [
     {
-      name: 'Twitter',
-      icon: 'fa6-brands:twitter',
-      url: 'https://twitter.com',
+      name: 'BiliBili',
+      icon: 'fa6-brands:bilibili',
+      url: 'https://www.bilibili.com',
     },
     {
       name: 'Steam',

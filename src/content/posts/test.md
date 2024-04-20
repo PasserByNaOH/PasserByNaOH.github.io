@@ -14,4 +14,4 @@ author: PasserByNaOH
 
 ## 一样一样的
 
-![](https://raw.githubusercontent.com/PasserByNaOH/PicGo/main/blogPic/1.jpg)
+![aaaaaaa](https://raw.githubusercontent.com/PasserByNaOH/PicGo/main/blogPic/1.jpg)
