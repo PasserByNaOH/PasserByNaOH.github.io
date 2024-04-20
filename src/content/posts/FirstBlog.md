@@ -1,6 +1,6 @@
 ---
 title: PasserByNaOH的第一个博客
-published: 2024-4-20
+published: 2024-4-20T
 tags: [Blog, 技术相关]
 category: 技术笔记
 draft: false
