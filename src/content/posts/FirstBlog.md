@@ -1,10 +1,10 @@
 ---
-title: PasserByNaOH的第一个博客
-published: 2024-4-20T
-tags: [Blog, 技术相关]
-category: 技术笔记
+title: Markdown Example
+published: 2023-10-01
+description: A simple example of a Markdown blog post.
+tags: [Markdown, Blogging, Demo]
+category: Examples
 draft: false
-author: PasserByNaOH
 ---
 
 # 这是PasserByNaOH的第一个博客
