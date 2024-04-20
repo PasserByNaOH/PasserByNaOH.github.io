@@ -36,11 +36,11 @@ export const profileConfig: ProfileConfig = {
   name: 'PasserByNaOH',
   bio: '这是一个博客',
   links: [
-    {
+/*     {
       name: 'BiliBili',
       icon: 'fa6-brands:bilibili',
       url: 'https://www.bilibili.com',
-    },
+    }, */
     {
       name: 'Steam',
       icon: 'fa6-brands:steam',
