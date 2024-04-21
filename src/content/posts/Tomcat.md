@@ -1,7 +1,7 @@
 ---
 title: 关于Tomcat中startup.bat闪退问题
 published: 2024-04-21
-description: JavaWebKaifa
+description: JavaWeb开发
 tags: [Blog, 技术笔记, JavaWeb, Tomcat]
 category: JavaWeb
 draft: false
